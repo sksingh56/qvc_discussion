@@ -215,7 +215,7 @@ lifecycle_tree = {
    1) Clone the repository in your project directory
         
         ```
-        prompt>  git clone git@github.com:sksingh56/qvc.git
+        prompt>  git clone git@github.com:sksingh56/qvc_discussion.git
         ```
    2) Run Docker compose build
        
